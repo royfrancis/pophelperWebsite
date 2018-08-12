@@ -199,7 +199,7 @@ header.masthead .device-container .screen img {
 }
 
 .img-fluid {
-  max-width: fit-content;
+  max-width: fit-content !important;
 }
 
 section.rpackage {
