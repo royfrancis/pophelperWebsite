@@ -1,6 +1,6 @@
 # Pophelper
 
-[pophelper.com](www.pophelper.com) website homepage.
+[pophelper.com](http://www.pophelper.com/) website homepage.
 
 ----
 
