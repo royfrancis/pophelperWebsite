@@ -198,8 +198,8 @@ header.masthead .device-container .screen img {
   }
 }
 
-.img-fluid {
-  max-width: fit-content !important;
+.img-cover {
+  max-width: 100%;
 }
 
 section.rpackage {
@@ -251,6 +251,10 @@ section.webapp .section-heading p {
   section.webapp .device-container {
     margin-bottom: 0;
   }
+  
+  .img-cover {
+  max-width: fit-content !important;
+}
 }
 
 section.webapp {
